@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 Not Found}</h1>
 /*
 Hi, this is Mohammed lived from iraq, like programming, studed nursing sciense.
 */
