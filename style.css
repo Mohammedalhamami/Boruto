@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap');
+/* font-family: 'Inconsolata', monospace; */
+/* font-family: 'Space Mono', monospace; */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+h2 {
+    font-size: 24px;
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 20px;
+}
+.content-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content-img img {
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+    height: 447.4263916015625px;
+    width: 539.2236938476562px;
+}
+.content-info h1 {
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+.content-info p {
+    position: absolute;
+    height: 108px;
+    width: 381px;
+    left: 736px;
+    top: 491px;
+
+    font-family: Space Mono;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    text-align: left;
+}
+.content-info button {
+    position: absolute;
+    height: 68px;
+    width: 216px;
+    left: 740px;
+    top: 663px;
+}
+.footer p {
+    position: absolute;
+    height: 17px;
+    width: 287px;
+    left: 577px;
+    top: 1039px;
+    display: block;
+
+    font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 600;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+
+}
